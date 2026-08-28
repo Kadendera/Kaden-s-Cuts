@@ -1,2 +1,2 @@
-# Kaden-s-Cuts
-this is a barber business
+# Kadens-Cuts
+This is a fresh barber business providing fresh cuts
